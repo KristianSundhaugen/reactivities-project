@@ -1,4 +1,4 @@
-# Reactivities Project
+# Reactivities Project a .NET Core and React app
 
 This project is based on Neil Cummings' course: [Complete Guide to Building an App with .NET Core and React](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/).
 
