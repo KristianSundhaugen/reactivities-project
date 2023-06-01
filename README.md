@@ -2,7 +2,7 @@
 
 This project is based on Neil Cummings' course: [Complete Guide to Building an App with .NET Core and React](https://www.udemy.com/course/complete-guide-to-building-an-app-with-net-core-and-react/).
 
-The Reactivities project is a multi-project ASP.NET Core solution that follows the principles of Clean Architecture and utilizes the CQRS (Command Query Responsibility Segregation) and Mediator pattern.
+The Reactivities project is a multi-project ASP.NET Core & React solution that follows the principles of Clean Architecture and utilizes the CQRS (Command Query Responsibility Segregation) and Mediator pattern.
 
 ## Key Learnings
 
